@@ -1,12 +1,21 @@
 body {
-    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Crimson Text', serif;
+
 }
 
 h1 {
-    color: blue;
-    font-family: 'DotGothic16', sans-serif;
+    color: black;
+    font-family: 'Crimson Text', serif;
+    font-size: 14px;
 }
 
 p {
     font-size: large;
+}
+
+.about {
+    color: black;
+    font-family: 'Crimson Text', serif;
+    font-weight: 500;
+    font-size: 20px;
 }
